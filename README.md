@@ -4,6 +4,8 @@
 
 <p align="center">
   This Repository Contains all My Solutions to the Problems of 6 Companies during the Period  of 30 Days of January 2022. 
+  
+  
   <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="img" width="350" height="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" alt="img2" width="400" height="450">
   </p>
