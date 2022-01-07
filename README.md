@@ -58,7 +58,7 @@
 
 </details>
 
-### Company_2
+### Amazon
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Company_2&nbsp;Questions 🎉</b></summary>
