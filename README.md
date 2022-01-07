@@ -63,6 +63,24 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;Company_2&nbsp;Questions 🎉</b></summary>
   <br/>
+  
+| Sr.No |                   Question                  | CheckList  |   Link   |
+|:-----:|:-------------------------------------------:|:---------: |:-------: |
+|   1   |          Calculating Maximum Profitr        |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
+|   2   |            Longest Mountain                 |   Done     | <a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a>   |
+|   3   |          IPL 2021 - Match Day 2             |   Done     | <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a> |
+|   4   |     Brackets in Matrix Chain Multiplication |   Done     | <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a> |
+|   5   |             Phone directory                 |   Done     | <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a> |
+|   6   |      Maximum of all subarrays of size k     |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1">Link</a>   | 
+|   7   |   First non-repeating character in a stream |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
+|   8   |         Count ways to N'th Stair            |   Done     | <a href="https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/">Link</a>   |
+|   9   |          Number following a pattern         |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
+|   10  | Max 10 numbers in a list having 10M entries |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
+|   11  |          Find Missing And Repeating         |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
+|   12  |      Total Squares in a N*N chessboard      |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
+|   13  |              Decode the string              |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   | 
+|   14  |          Minimum Size Subarray Sum          |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
+|   15  |         Array Pair Sum Divisibility         |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#">Link</a>   |
 
 
 </details>
