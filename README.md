@@ -22,7 +22,7 @@
 - [6Companies30Days 😃](#6companies30days)
   - [5 Companies](#5-companies)
     - [Goldman Sachs](#goldman-sachs) (Date Jan 1 - Jan5)
-    - [Company_2](#company_2)
+    - [Amazon](#Amazon) (Date Jan 6 - Jan 10)
     - [Company_3](#company_3)
     - [Company_4](#company_4)
     - [Company_5](#company_5)
