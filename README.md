@@ -61,7 +61,7 @@
 ### Amazon
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;Company_2&nbsp;Questions 🎉</b></summary>
+  <summary><b>✨&nbsp;&nbsp;Amazon&nbsp;Questions 🎉</b></summary>
   <br/>
   
 | Sr.No |                   Question                  | CheckList  |   Link   |
