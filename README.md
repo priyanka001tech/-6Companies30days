@@ -23,7 +23,7 @@
   - [5 Companies](#5-companies)
     - [Goldman Sachs](#goldman-sachs) (Date Jan 1 - Jan5)
     - [Amazon](#Amazon) (Date Jan 6 - Jan 10)
-    - [Company_3](#company_3)
+    - [Microsoft](#company_3) (DAte Jan 11 - Jan 15)
     - [Company_4](#company_4)
     - [Company_5](#company_5)
 
@@ -70,7 +70,7 @@
 |   2   |            Longest Mountain                 |   Done     | <a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a>   |
 |   3   |          IPL 2021 - Match Day 2             |   Done     | <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a> |
 |   4   |     Brackets in Matrix Chain Multiplication |   Done     | <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a> |
-|   5   |             Phone directory                 |   Done     | <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a> |
+|   5   |             Phone directory                 |   Done     | <a href="https://practice.geeksforgeeks.org/problems/phone-directory4628/1/">Link</a> |
 |   6   |      Maximum of all subarrays of size k     |   Done     | <a href="https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1">Link</a>   | 
 |   7   |   First non-repeating character in a stream |   Done     | <a href="https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1">Link</a>   |
 |   8   |         Count ways to N'th Stair            |   Done     | <a href="https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/">Link</a>   |
@@ -85,10 +85,10 @@
 
 </details>
 
-### Company_3
+### Microsoft
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;Company_3&nbsp;Questions 🎉</b></summary>
+  <summary><b>✨&nbsp;&nbsp;Microsoft&nbsp;Questions 🎉</b></summary>
   <br/>
 
 </details>
