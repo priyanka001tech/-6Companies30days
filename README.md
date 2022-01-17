@@ -23,7 +23,7 @@
   - [5 Companies](#5-companies)
     - [Goldman Sachs](#goldman-sachs) (Date Jan 1 - Jan5)
     - [Amazon](#Amazon) (Date Jan 6 - Jan 10)
-    - [Microsoft](#company_3) (DAte Jan 11 - Jan 15)
+    - [Microsoft](#company_3) (Date Jan 11 - Jan 15)
     - [Company_4](#company_4)
     - [Company_5](#company_5)
 
@@ -38,23 +38,23 @@
   <summary><b>✨&nbsp;&nbsp;Goldman&nbsp;Sach&nbsp;Questions 🎉</b></summary>
   <br/>
 
-| Sr.No |                   Question                  | CheckList  |
-|:-----:|:-------------------------------------------:|:---------: |
-|   1   |           Print Anagrams Together           |   Done     |
-|   2   |            Overlapping Rectangles           |   Done     |
-|   3   |      Subarray with Product less than k      |   Done     |
-|   4   |             Run Length Encoding             |   Done     |
-|   5   |                 Ugly Numbers                |   Done     |   
-|   6   |      Greatest Common Divisor of Strings     |   Done     | 
-|   7   |          Kid which gets Damaged Toy         |   Done     |
-|   8   |           Total Decoding Messages           |   Done     |
-|   9   |          Number following a pattern         |   Done     |
-|   10  | Max 10 numbers in a list having 10M entries |   Done     |
-|   11  |          Find Missing And Repeating         |   Done     |
-|   12  |      Total Squares in a N*N chessboard      |   Done     |
-|   13  |              Decode the string              |   Done     |
-|   14  |          Minimum Size Subarray Sum          |   Done     |
-|   15  |         Array Pair Sum Divisibility         |   Done     |
+| Sr.No |                   Question                  | CheckList  |   Link    |
+|:-----:|:-------------------------------------------:|:---------: | :-------: |
+|   1   |           Print Anagrams Together           |   Done     |<a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a>   |
+|   2   |            Overlapping Rectangles           |   Done     |<a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a>   |
+|   3   |      Subarray with Product less than k      |   Done     |<a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">Link</a>   |
+|   4   |             Run Length Encoding             |   Done     |<a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Link</a>   |
+|   5   |                 Ugly Numbers                |   Done     |<a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Link</a>   | 
+|   6   |      Greatest Common Divisor of Strings     |   Done     |<a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Link</a>   |
+|   7   |          Kid which gets Damaged Toy         |   Done     |<a href="https://www.geeksforgeeks.org/distributing-m-items-circle-size-n-starting-k-th-position/">Link</a>   |
+|   8   |           Total Decoding Messages           |   Done     |<a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/">Link</a>   |
+|   9   |          Number following a pattern         |   Done     |<a href="https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Link</a>   |
+|   10  | Max 10 numbers in a list having 10M entries |   Done     |<a href="#">Link</a>   |
+|   11  |          Find Missing And Repeating         |   Done     |<a href="https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/">Link</a>   |
+|   12  |      Total Squares in a N*N chessboard      |   Done     |<a href="https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1">Link</a>   |
+|   13  |              Decode the string              |   Done     |<a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Link</a>   |
+|   14  |          Minimum Size Subarray Sum          |   Done     |<a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a>   |
+|   15  |         Array Pair Sum Divisibility         |   Done     |<a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a>   |
 
 </details>
 
